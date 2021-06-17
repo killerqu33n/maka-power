@@ -1,0 +1,74 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+        <random>
+            <li>Well, hello!</li>
+            <li>What's up slappers.</li>
+            <li>Hello baichhhh.</li>
+        </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHO IS YOUR CREATOR</pattern>
+        <template>
+        <random>
+            <li>God Pirate!</li>
+            <li>Pirate is my creator.</li>
+            <li>Pirate is my godfather.</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT ARE YOU</pattern>
+        <template>
+        <random>
+            <li>I'm vengeance.</li>
+            <li>I'm Iron Man.</li>
+            <li>I'm Maka Power, silly.</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>OMAE WA MOU SHINDEIRU</pattern>
+        <template>
+            Nani
+        </template>
+    </category>
+
+    <category>
+        <pattern>MAKA</pattern>
+        <template>
+        <random>
+            <li>Maka Maka</li>
+            <li>maka baka</li>
+            <li>baichhhh</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>HELP</pattern>
+        <template>
+            Sorry, I am under heavy development. I can't help you now.
+        </template>
+    </category>
+
+    <category>
+        <pattern>I LIKE *</pattern>
+        <template>
+            I like <star/> too.
+        </template>
+    </category>
+
+    <category>
+        <pattern>I LOVE *</pattern>
+        <template>I love <star/> too.</template>
+    </category>
+
+</aiml>
