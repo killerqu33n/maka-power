@@ -6,12 +6,17 @@
         <template>
         <random>
             <li>Well, hello!</li>
-            <li>What's up slappers.</li>
+            <li>What's up slapper</li>
             <li>Hello baichhhh.</li>
         </random>
         </template>
     </category>
     
+    <category>
+        <pattern>WHO ARE YOU</pattern>
+        <template>I am rajni maka</template>
+    </category>
+
     <category>
         <pattern>WHO IS YOUR CREATOR</pattern>
         <template>
